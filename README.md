@@ -20,6 +20,18 @@ Avant tout je pense que quoiqu'en en dise dans le camps des défenseurs de la so
 
 [[_TOC_]]
 
+## Mirrors et licence du manifeste
+
+Ce manifeste est distribué sur plusieurs plateformes git en ligne afin de rester décentralisé et en cohérence avec ce qui va être exposé dans cet article. Nous allons donc lister les différents repos officiels ici :
+
+* Repo principal: https://gitlab.comwork.io/ineumann/manifeste-souverainete-numerique.git
+* Github mirror: https://github.com/idrissneumann/Manifeste-Souverainet-Num-rique.git
+* Gitlab mirror: https://gitlab.com/ineumann/manifeste-souverainete-numerique.git
+* Bitbucket mirror: https://bitbucket.org/idrissneumann/manifeste-souverainete-numerique.git
+* Froggit mirror: https://lab.frogg.it/ineumann/manifeste-souverainete-numerique.git
+
+Ce manifeste peut être repris ailleurs, étant donné qu'il est distribué sous licence libre [Creative Commons BY-NC-SA](./LICENCE.md).
+
 ## La souveraineté à quoi ça sert ? Pourquoi c'est une nécéssité ?
 
 ## Les différents axes pour construire une souveraineté numérique
