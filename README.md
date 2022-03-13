@@ -1,4 +1,4 @@
-# Manifeste sur la Souveraineté Technologique
+# Manifeste sur la Souveraineté Numérique
 
 ## Objectifs de ce document
 
@@ -11,3 +11,12 @@ Ce document a pour objectif de donner une vision sur comment on peut retrouver r
 * Il n'y a pas de vision produit en France, on cette vision que l'informatique est un centre de coût avec des immobilisations comptables qu'il faut amortir et que faire du cloud c'est faire de l'infrastructure physique. Pas de capacité à créer des solutions inovantes (et logicielles) qui répondent en premier lieu.
 
 * En France toutes les tentatives de souveraineté technologique ont échouées auparavant parce que soit on ré-invente l'eau chaude (un moteur de recherche alors qu'on a déjà un monopole quasi unique dans le monde, etc), soit on est réfractaire au changement et aux modes ("c'est la hype, ça va passer", "expliquez-nous votre besoin, on va vous expliquer comment vous en passer", etc)
+
+* La souveraineté ça sert vraiment à quelque chose ? C'est pas une vision repliée sur soi-même qui n'a plus de sens dans la société actuelle ? N'est-ce pas limite une thèse identitaire au final ? Vous ne seriez-pas en fait un anti-GAFAM et anti-USA primaire ?
+
+Avant tout je pense que quoiqu'en en dise dans le camps des défenseurs de la souveraineté numérique, ces critiques et ce "French Bashing" ne sortent pas de nulle part et qu'il y a forcemment un fond de vérité dans tout ça. Pour autant je vais essayer dans ce Manifeste de répondre à tout ces arguments avec des pistes et visions que je pense souhaitables et surtout réalisables.
+
+## Table des matières
+
+[[_TOC_]]
+
