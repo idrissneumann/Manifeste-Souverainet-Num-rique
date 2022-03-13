@@ -4,7 +4,7 @@
 
 Ce document a pour objectif de donner une vision sur comment on peut retrouver rapidement et "facilement" une souveraineté technologique en répondant aux critiques et arguments défaitistes qu'on a l'habitude d'entendre. En substance :
 
-> La tech française ne pourra jamais rattraper le niveau des acteurs USA (tels que les GAFAM) à cause de l'investissement qui est microscopique en comparaison, et à cause de la vision court-termiste imposée sur retour sur investissement et de la rentabilité qui nous est imposé à nous entrepreneurs Français. Comment on peut créer un cloud Souverain alors que ça demande des dizaines de milliard d'euros d'investissement pour se lancer et espérer concurrencer un Amazon/Google/Microsoft ?
+> La tech française ne pourra jamais rattraper le niveau des acteurs USA (tels que les GAFAM) à cause de l'investissement qui est microscopique en comparaison, et à cause de la vision court-termiste imposée sur retour sur investissement et de la rentabilité qui nous est imposé à nous entrepreneurs Français. Comment on peut rivaliser avec des entreprises qui investissent des dizaines de milliards de dollars et qui ont la capacité d'attendre 20 ans pour atteindre la rentabilité ?
 
 > La tech française ne pourra jamais rattraper le niveau de celle des USA car toutes nos compétences s'en vont car elles sont mal considérées et rémunérées. L'informatique est considérée comme une question centrale dans tous les business américains sans laquelle l'entreprise ne peut pas fonctionner alors qu'en France on considère cela comme d'un outil qui aide à la production de valeur, mais qui est de seconde zone et dont on pourrait se passer.
 
